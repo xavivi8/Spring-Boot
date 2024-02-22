@@ -7,6 +7,6 @@ import org.springframework.data.repository.query.Param;
 
 public interface IUsuarioRepository extends CrudRepository<Usuario, Long> {
 
-    @Query("SELECT u FROM Usuario u WHERE u.usuario = :usuario AND u.passUser = :passUser")
-    Usuario findByUsuarioAndPassUser(@Param("usuario") String usuario, @Param("passUser") String passUser);
+    @Query("SELECT u FROM Usuario u WHERE u.usuario = :usuarios AND u.passUser = :passUsers")
+    Usuario findByUsuarioAndPassUser(@Param("usuarios") String usuario, @Param("passUsers") String passUser);
 }
