@@ -2,7 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5df9f30-9bdd-45fc-95ba-03464eed26b8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Spring-Boot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Spring-Boot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/controllers/UsuarioController.java" beforeDir="false" afterPath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/controllers/UsuarioController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/controllers/dto/Peli_favDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/controllers/dto/Peli_favDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/controllers/dto/RolDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/controllers/dto/RolDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/controllers/dto/UsuarioDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/controllers/dto/UsuarioDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/entities/Peli_fav.java" beforeDir="false" afterPath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/entities/Peli_fav.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/entities/Rol.java" beforeDir="false" afterPath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/entities/Rol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/entities/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/entities/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/persistence/IPeli_favDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/persistence/IPeli_favDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/persistence/IRolDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/persistence/IRolDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/persistence/IUsuarioDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/persistence/IUsuarioDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/persistence/impl/Peli_favDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/persistence/impl/Peli_favDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/persistence/impl/RolDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/persistence/impl/RolDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/persistence/impl/UsuarioDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/persistence/impl/UsuarioDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/repository/IPeli_favRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/repository/IPeli_favRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/repository/IRolRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/repository/IRolRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/repository/IUsuarioRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/repository/IUsuarioRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/service/IPeli_favService.java" beforeDir="false" afterPath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/service/IPeli_favService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/service/IRolService.java" beforeDir="false" afterPath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/service/IRolService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/service/IUsuarioService.java" beforeDir="false" afterPath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/service/IUsuarioService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/service/impl/Peli_favServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/service/impl/Peli_favServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/service/impl/RolServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/service/impl/RolServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/service/impl/UsuarioServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/laApi/src/main/java/com/application/gestorPeliculas/laApi/service/impl/UsuarioServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laApi/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/laApi/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laApi/src/main/resources/banner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/laApi/src/main/resources/banner.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laApi/src/main/resources/import.sql" beforeDir="false" afterPath="$PROJECT_DIR$/laApi/src/main/resources/import.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,23 +45,23 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2cilcrrTsfL7gFeen0jCNu8Fe16" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/jmart/OneDrive/Documentos/GitHub/Spring-Boot/laApi"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jmart/OneDrive/Documentos/GitHub/Spring-Boot/laApi&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

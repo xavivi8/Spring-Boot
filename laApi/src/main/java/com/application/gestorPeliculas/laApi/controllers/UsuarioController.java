@@ -42,8 +42,8 @@ public class UsuarioController {
         return  ResponseEntity.notFound().build();
     }
 
-    @GetMapping(value = "/findByIdAndUser", params = {"user","pass"}) /* /findByIdAndUser?user=valorUsuario&pass=valorPassword */
-    public ResponseEntity<?> findByUsuarioAndPassUser(@RequestParam String user, @RequestParam String pass){
+    /*@GetMapping(value = "/findByIdAndUser", params = {"user","pass"}) /* /findByIdAndUser?user=valorUsuario&pass=valorPassword */
+    /*public ResponseEntity<?> findByUsuarioAndPassUser(@RequestParam String user, @RequestParam String pass){
         Usuario usuario = usuarioService.findByUsuarioAndPassUser(user, pass);
 
         if(usuario.isHabilitado()){
@@ -64,5 +64,5 @@ public class UsuarioController {
             return ResponseEntity.ok(usuarioDTO);
         }
         return  ResponseEntity.notFound().build();
-    }
+    }*/
 }
